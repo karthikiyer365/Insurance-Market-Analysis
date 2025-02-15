@@ -26,6 +26,3 @@ This repository consists of two files with the work and details as follows:
     This file is the Dashboard to view our finding. It has two sheets.
     Sheet 1 - Industry level - Trend chart to view how different organizations spends in each Quarter for any give industry.
     Sheet 2 - ORganization level - Division charts to identify the investment growth of any given organization in different industries.
-
-
-The 
